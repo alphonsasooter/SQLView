@@ -1,6 +1,6 @@
 # 🗄️ SQL Query Visualizer
 
-An interactive web application for learning SQL with real-time query execution, visual results, and AI-powered explanations.
+An interactive web application for learning SQL with real-time query execution, visual results.
 
 ## https://sqlview.netlify.app
 
